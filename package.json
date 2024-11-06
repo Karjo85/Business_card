@@ -1,13 +1,14 @@
 {
-  "name": "Scrim-s027ic2",
+  "name": "Scrim-s053i2ej4k",
   "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~02e",
   "scripts": {
-    "start": "netlify serve",
-    "dev": "remix vite:dev",
-    "build": "remix vite:build",
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+    "remix": "2.13.1",
     "vite": "latest"
   },
   "devDependencies": {}
